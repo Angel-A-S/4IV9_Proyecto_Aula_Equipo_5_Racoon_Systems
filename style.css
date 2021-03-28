@@ -37,11 +37,6 @@
     color: white;
   }
   
-  .form-register a:hover {
-    color: white;
-    text-decoration: underline;
-  }
-  
   .form-register .botons {
     width: 100%;
     background: #818ca5;
